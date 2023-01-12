@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+
+.wrapper img{
+    width: 220px;
+  
+   
+}
+
+.wrapper{
+    margin: 20px;
+    border: 2px solid red;
+}
+
+ 
